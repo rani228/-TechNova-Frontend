@@ -28,7 +28,7 @@ function Blog() {
                         <span className="blog-date">{blog.date}</span>
                         <h3>{blog.title}</h3>
                         <p>{blog.description}</p>
-                        <button className="read-btn">Read More</button>
+                      
                     </div>
                 ))}
             </div>
